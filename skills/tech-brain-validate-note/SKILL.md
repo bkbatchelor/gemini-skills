@@ -1,5 +1,5 @@
 ---
-name: validate-note
+name: tech-brain-validate-note
 description: Validates the contents of a specified note against authoritative resources. It outputs a correctness score (0 to 1) and a list of resources used. Inherits procedures and rules from the tech-brain skill.
 ---
 

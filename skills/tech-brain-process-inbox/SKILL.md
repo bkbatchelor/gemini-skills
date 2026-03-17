@@ -1,5 +1,5 @@
 ---
-name: process-inbox
+name: tech-brain-process-inbox
 description: Automatically scans the '00_inbox' folder in Google Drive and processes files using the rules defined in the 'tech-brain' skill (Apply Templates, Folder Maintenance, Front-matter, and Clean Up). Use this skill when asked to process inbox or tb-process-inbox.
 ---
 

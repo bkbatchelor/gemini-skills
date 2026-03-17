@@ -1,5 +1,5 @@
 ---
-name: create-readme
+name: tech-brain-create-readme
 description: Generates or updates a high-quality README.md for a project, including support for multi-module Gradle builds. Use when the user asks to create or update project documentation, generate a README, or document the codebase.
 ---
 
