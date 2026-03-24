@@ -1,6 +1,6 @@
 ---
 name: tech-brain
-description: Process files from My Drive for insertion into the tech-second-brain folder. Use when organizing, tagging, or standardizing raw Google Drive files into the Second Brain structure. Triggers: show-toc, process-inbox.
+description: Process files from My Drive for insertion into the tech-second-brain folder. Use when organizing, tagging, or standardizing raw Google Drive files into the Second Brain structure. Triggers: show-toc, process-inbox, validate-note.
 ---
 
 # Process Files for Tech Second Brain
