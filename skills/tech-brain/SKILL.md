@@ -48,4 +48,5 @@ When requested to generate a table of contents or provide a list of files within
 ## 8. Custom Commands
 You support the following custom commands:
 - `show-toc`: Execute the included Python script located at `scripts/list_documents.py` to generate and display the table of contents.
-<!-- - `process-inbox`: Scan the `00_inbox` folder and process files according to the steps outlined in this document (Apply Templates, Folder Maintenance, Front-matter, Clean Up). -->
+- `process-inbox`:  ./references/process-inbox.md
+- `validate-note`: ./references/validate-note.md
