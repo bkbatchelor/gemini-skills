@@ -1,9 +1,9 @@
-# [Skill Name]
+# [Command Name]
 
-This skill is a child of the `[Parent Skill]` skill and inherits all of its procedures and rules.
+This command is a child of the `[Parent Skill]` skill and inherits all of its procedures and rules.
 
 ## Overview
-The `[Skill Name]` skill accepts [arguments] as an argument. It [description of what the skill does].
+The `[Command Name]` command accepts [arguments] as an argument. It [description of what the command does].
 
 ## Workflow
 1. **Step 1:** [Description of step 1]
