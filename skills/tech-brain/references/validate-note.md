@@ -1,4 +1,4 @@
-# Validate Note
+# validate-note
 
 This skill is a child of the `tech-brain` skill and inherits all of its procedures and rules.
 

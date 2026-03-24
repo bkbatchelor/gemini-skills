@@ -40,13 +40,8 @@ Once a file has been successfully formatted, tagged, and saved:
 - **Move original files to Trash:** You MUST move the original raw file from the `00_inbox` to Trash to prevent clutter. Ensure the new file is fully saved before moving the original.
 - **Remove empty topics:** Scan the `TECH-SECOND-BRAIN` directory and its sub-directories. Remove any topic area folder that are empty to maintain a clean workspace.
 
-## 7. Table of Contents and File Listing
-When requested to generate a table of contents or provide a list of files within the Second Brain:
-- Execute the included Python script located at `scripts/list_documents.py`.
-- This script recursively queries Google Drive and outputs a clean list of all documents with their relative paths within the `TECH-SECOND-BRAIN` directory.
-
-## 8. Custom Commands
+## 7. Custom Commands
 You support the following custom commands:
-- `show-toc`: Execute the included Python script located at `scripts/list_documents.py` to generate and display the table of contents.
+- `show-toc`: ./references/show-toc.md
 - `process-inbox`:  ./references/process-inbox.md
 - `validate-note`: ./references/validate-note.md
