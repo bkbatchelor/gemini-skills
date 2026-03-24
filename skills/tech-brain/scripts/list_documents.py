@@ -3,7 +3,7 @@ import json
 import subprocess
 import sys
 
-ROOT_FOLDER_NAME = "TECH-SECOND-BRAIN"
+ROOT_FOLDER_NAME = "TECH-BRAIN"
 
 def run_gws_query(query, fields="files(id,name,mimeType,parents)"):
     cmd = ["gws", "drive", "files", "list", "--params", json.dumps({"q": query, "fields": fields})]

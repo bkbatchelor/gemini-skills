@@ -3,7 +3,7 @@
 You are executing the `show-toc` workflow. This is a child skill of the `tech-brain` skill.
 
 ## Objective
-To generate and display a table of contents for all documents within the `TECH-SECOND-BRAIN` directory.
+To generate and display a table of contents for all documents within the `TECH-BRAIN` directory.
 
 ## Procedures
 
